@@ -1,1 +1,36 @@
 /* Acá va tu código */
+body {
+    background-color: rgb(223, 247, 255);
+  }
+
+  h1 {
+    background-color: rgb(153, 211, 153);
+  }
+
+  h1 {
+      border:5px solid pink;
+      border-block-start-style: initial;
+      padding-left: 10cm;
+  }
+
+  h2{
+      margin-left: 3cm;
+
+  }
+
+
+  
+.btnPrimary {
+    padding: 10.5px;
+    }
+
+    .btnSecondary {
+        padding: 10.5px;
+        }
+
+#showEncode {color: #ff737e; }
+#showDecode {color: #ff737e; }
+#root { color: #faf88b; }
+#explanation { color: #ff80a8; }
+#messageTitle { color: #70e061; }
+#offsetTitle { color: #70e061; }
