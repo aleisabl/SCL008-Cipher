@@ -1,5 +1,5 @@
 window.cipher = {
-  encode: () => {
+  encode: (offset, text) => {
       let resultEncode = "";
       let text = document.getElementById('message').value.toUpperCase();
       let offset = document.getElementById('offsetNumber').value;
@@ -15,14 +15,14 @@ window.cipher = {
       document.getElementById("showEncode").innerHTML = `Mensaje ocultado: ${resultEncode}`;
   },
 
-  decode: () => {
+  decode: (offset, text) => {
       let resultDecode = "";
-      let textDecode = document.getElementById('message').value.toUpperCase();
+      let text = document.getElementById('message').value.toUpperCase();
       let offset = document.getElementById('offsetNumber').value;
   
-      for (let i=0; i<textDecode.length; i++){
+      for (let i=0; i<text.length; i++){
   
-          let formulaDecode = ((textDecode.charCodeAt(i)-90- parseInt(offset))%26+90);
+          let formulaDecode = ((text.charCodeAt(i)-90- parseInt(offset))%26+90);
           resultDecode += String.fromCharCode(formulaDecode);   
       }
       if(document.getElementById("message").value.length == 0){

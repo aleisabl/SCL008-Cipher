@@ -7,10 +7,12 @@ window.onload = () => {
     });
   }
 
-  /*  if(document.getElementById("message").value.length == 0){
-            alert("Por favor rellenar todos los campos");
-        } */
 
-        /* if(document.getElementById("message").value.length == 0){
-            alert("Por favor rellenar todos los campos");
-        } */
+  /* const btnPrimary = document.getElementById("btnPrimary");
+
+  btnPrimary.addEventListener("click", () => {
+      const input = document.getElementById("input-name");
+      let valueInput = inputName.value;
+
+      document.getElementById("root").innerHTML+= cipher.encode(valueInput);
+  }) */
