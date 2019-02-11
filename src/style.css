@@ -27,19 +27,23 @@ body {
 .btnPrimary {
     padding: 10.5px;
     background-color: #e9bad0;
-    border: 2px solid #99d399;
+    border: 3px solid #99d399;
     }
 
     .btnSecondary {
         padding: 10.5px;
         background-color: #e9bad0;
-        border: 2px solid #99d399;
+        border:3px solid #99d399;
         
         }
 
-#showEncode {color: #dffffd; }
-#showDecode {color: #dffffd; }
+        
+
+#showEncode {color: #faf88b; }
+#showDecode {color: #faf88b; }
 #root { color: #faf88b; }
 #explanation { color: #ffffff; }
-#messageTitle { color: #faf88b;  }
-#offsetTitle { color: #faf88b; }
+#messageTitle { color: #4c66af;  }
+#message { color: rgba(63, 221, 90, 0.89); }
+#offsetNumber { color: rgba(63, 221, 90, 0.89); }
+#offsetTitle { color: #4c66af; }
