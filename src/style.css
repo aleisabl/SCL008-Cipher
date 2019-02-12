@@ -40,12 +40,22 @@ a {
         
         }
 
-        
-#showEncode {color: #faf88b; }
-#showDecode {color: #faf88b; }
-#root { color: #faf88b; }
-#explanation { color: #ffffff; }
-#messageTitle { color: #4c66af;  }
-#message { color: rgba(63, 221, 90, 0.89); }
-#offsetNumber { color: rgba(63, 221, 90, 0.89); }
-#offsetTitle { color: #4c66af; }
+        #btnEncode {color: #4c66af; }     
+
+        #btnDecode {color: #4c66af; }     
+
+        #showEncode {color: #faf88b; }
+
+        #showDecode {color: #faf88b; }
+
+        #root { color: #faf88b; }
+
+        #explanation { color: #ffffff; }
+
+        #messageTitle { color: #4c66af;  }
+
+        #message { color: rgba(63, 221, 90, 0.89); }
+
+        #offsetNumber { color: rgba(63, 221, 90, 0.89); }
+
+        #offsetTitle { color: #4c66af; }
