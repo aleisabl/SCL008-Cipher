@@ -22,7 +22,10 @@ body {
 
   }
 
-
+a {
+    font-style: italic;
+    color: white;
+ }
   
 .btnPrimary {
     padding: 10.5px;
@@ -38,7 +41,6 @@ body {
         }
 
         
-
 #showEncode {color: #faf88b; }
 #showDecode {color: #faf88b; }
 #root { color: #faf88b; }
