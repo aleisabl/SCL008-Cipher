@@ -5,12 +5,14 @@
 
 
   # ¿Cómo funciona?
-  Sólo necesitas un mensaje a ocultar o revelar y el respectivo número favorito, ya sea tuyo o de tu amiga. ¡Recuerda que sólo tu número favorito podrá descifrar tu mensaje!
+  Sólo necesitas un mensaje a ocultar o revelar y el respectivo número favorito, ya sea tuyo o de tu amiga.  🧚‍♀️ 🧚‍♀️ ¡Recuerda que sólo tu número favorito podrá descifrar tu mensaje!
   
   # El proceso de diseño...
   El proceso elegido para diseñar Cifralex fue con sketchs y prototipos de diseño, elegimos hacer varios sketchs manteniéndolos simples y claros para corregir errores a tiempo.
 
   Los tests fueron realizados en loom con usuarios una vez teniendo la base de la app.
+
+   ## Ejemplo de test:
 
   ![](giphytest.gif)
 
