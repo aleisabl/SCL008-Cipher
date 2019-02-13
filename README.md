@@ -1,7 +1,6 @@
 # ![WebApp](https://images.unsplash.com/photo-1500995617113-cf789362a3e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)
-(https://media.giphy.com/media/aNTYdoZaKU7YY/giphy.gif)
 
-  # Cifralex
+  # Cifralex 🔎 
   Es una aplicación diseñada para ocultar y revelar mensajes entre amigas.
 
 
