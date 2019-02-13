@@ -6,6 +6,7 @@ window.onload = () => {
       event.preventDefault();
     });
   }
+  
    //addEventListener pasa variables, retorna resultado del cipher.encode llamando al btn
    //alert ṕor si no rellena todos los campos
 
