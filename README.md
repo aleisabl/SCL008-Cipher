@@ -11,7 +11,7 @@
   # El proceso de diseño...
   El proceso elegido para diseñar Cifralex fue con sketchs y prototipos de diseño, elegimos hacer varios sketchs manteniéndolos simples y claros para corregir errores a tiempo.
 
-  Los tests fueron realizados con usuarios una vez teniendo la base de la app.
+  Los tests fueron realizados en loom con usuarios una vez teniendo la base de la app.
 
   ![](giphytest.gif)
 
