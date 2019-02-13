@@ -13,7 +13,7 @@
 
   Los tests fueron realizados con usuarios una vez teniendo la base de la app.
 
-  ![](giphy(1).gif)
+  ![](giphytest.gif)
 
   # Por ejemplo
   Cuando estás secreteando con tu mejor amiga y no quieres que los demás sepan de qué o quién estás hablando, puedes cifrar tu mensaje o nombre para que sólo ustedes sepan de lo que hablan.
