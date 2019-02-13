@@ -14,7 +14,7 @@
 
    ## Ejemplo de test:
   https://www.useloom.com/share/7e97f7fa086a4ac79e64eec1834d57b7
-  
+
   ![](giphytest.gif)
 
   # Por ejemplo
@@ -40,7 +40,7 @@
 ![](giphy.gif)
 
 ## Trello
-https://trello.com/b/XAjYJYh4/proyecto-1-cipher
+https://trello.com/b/XAjYJYh4
 
 ## Link directo para acceder a la app
   https://aleisabl.github.io/SCL008-Cipher/src/index.html
