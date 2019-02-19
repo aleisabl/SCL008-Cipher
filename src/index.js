@@ -1,11 +1,11 @@
 // addEventListener para que el usuario no pueda escribir en el input y utilice sólo las flechas :p 
-
+/* 
 window.onload = () => {
     const mouseOnly = document.getElementById("offsetNumber");
     mouseOnly.addEventListener("keypress", (event) => {
       event.preventDefault();
     });
-  }
+  } */
   
    //addEventListener pasa variables, retorna resultado del cipher.encode llamando al btn
    //alert ṕor si no rellena todos los campos
