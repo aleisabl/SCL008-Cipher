@@ -6,6 +6,8 @@
               </style>
 
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
     
     <title>Caesar Cipher</title>
     <link rel="shortcut icon" href="favicon.ico">
@@ -22,35 +24,39 @@
     <!-- "pre" para que se muestre mi mensaje tal cual lo escribo -->
    
 <pre>
-    <h2 id="explanation" >Este mini juego consiste en ocultar mensajes para que sólo tú y tu amiga puedan leerlos 👀 ... 
-                        ¡Sólo necesitan saber sus números favoritos! 🧚‍♀️🧚‍♀️
+    <h2 id="explanation" >Este mini juego consiste en ocultar mensajes para que sólo tú 
+ y tu amiga puedan leerlos 👀 ... 
+¡Sólo necesitan saber sus números favoritos! 🧚‍♀️🧚‍♀️
     </h2>
 </pre>
 
-    <h3 id="messageTitle" > Ingresa el mensaje que quieres ocultar o revelar...</h3>
-    <input placeholder="mensaje sin espacios" type="text" id="message" />
+    <h3 id="messageTitle" class="rounded-pill"> Ingresa el mensaje que quieres ocultar o revelar...</h3>
+    <input class="rounded-pill" placeholder="   mensaje sin espacios" type="text" id="message" />
 
       <br>
 
       <h3 id="offsetTitle" >Ingresa tu número favorito o el de tu amiga...</h3>
-      <input placeholder="número positivo" type="number" min="0" id="offsetNumber" />
+      <input class="rounded-pill" placeholder="   número positivo" type="number" min="0" id="offsetNumber" />
       
       <br>
 
       <br>
       
-<button type="button" class="btnPrimary" id="btnEncode">OCULTAR 🔎 </button>
+<button type="button" class="btnPrimary"  id="btnEncode">OCULTAR 🔎 </button>
 <button type="button" class="btnSecondary" id="btnDecode" >REVELAR 🔎 </button>
 
 
 <h2 id="showEncode"></h2>  
 <h2 id="showDecode"></h2>
-
+<br>
+<br>
 <a href="https://www.facebook.com/messages/t/823162207" target="_blank">
   ¡Mensajea por Facebook!
 </a>
 
     <script src="cipher.js"></script>
     <script src="index.js"></script>
+   
+
 </body>
 </html>

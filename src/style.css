@@ -1,5 +1,5 @@
 body {
-    background-image: url("sean-sinclair-1242260-unsplash.jpg");
+    background-color: rgba(255, 225, 230, 0.795);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -23,38 +23,26 @@ body {
 
 a {
     font-style: italic;
-    color: white;
+    color: #4c66af;
  }
   
 .btnPrimary {
     padding: 10.5px;
     background-color: #e9bad0;
     border: 3px solid #99d399;
+    margin-left: 3cm;
     }
 
     .btnSecondary {
         padding: 10.5px;
         background-color: #e9bad0;
         border:3px solid #99d399;
+        margin-left: 3cm;
         
         }
 
-        #btnEncode {color: #4c66af; }     
+        #btnEncode, #btnDecode, #messageTitle,  #offsetTitle,#explanation  {color: #4c66af; margin-left: 3cm;}    
 
-        #btnDecode {color: #4c66af; }     
+        #showEncode, #showDecode, #message, #offsetNumber  {color: #3a516ece; margin-left: 3cm; }
 
-        #showEncode {color: #faf88b; }
-
-        #showDecode {color: #faf88b; }
-
-        #root { color: #faf88b; }
-
-        #explanation { color: #ffffff; }
-
-        #messageTitle { color: #4c66af;  }
-
-        #message { color: rgba(63, 221, 90, 0.89); }
-
-        #offsetNumber { color: rgba(63, 221, 90, 0.89); }
-
-        #offsetTitle { color: #4c66af; }
+        #root { color:white;} 
